@@ -1,0 +1,19 @@
+.navbar-style {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-style > li{
+    padding: 10px;
+    color: white;
+    list-style: none;
+   
+}
+
+.navbar-style > li > a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+   
+}
+
